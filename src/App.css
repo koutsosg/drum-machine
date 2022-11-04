@@ -24,15 +24,13 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
+.keys{
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  border-radius: 5px;
+  
+}
+.drum-pad{
+
+  padding:10px;
+    border: 2px solid #51b66f96;
 }
